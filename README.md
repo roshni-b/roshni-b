@@ -5,4 +5,4 @@
 
 #### Hello, I'm Roshni ✨
 
-I am a Bioinformatics graduate student at [Saarland University](https://saarland-informatics-campus.de/en/), building software and tools to accelerating innovation in genomic science. I'm passionate about reproducible research and open-source software. Currently I work on Single-cell 'omics at the [Berlin Institute of Health at Charité](https://www.bihealth.org/en/) and [Berlin Institute for Medical Systems Biology (MDC)](https://www.mdc-berlin.de/bimsb) in Germany.
+I am a Bioinformatics graduate student at [Saarland University](https://saarland-informatics-campus.de/en/), building software & tools to accelerate innovation in genomic science. I'm passionate about reproducible research and open-source software. Currently I work on single-cell 'omics at the [Berlin Institute of Health at Charité](https://www.bihealth.org/en/) and [Berlin Institute for Medical Systems Biology](https://www.mdc-berlin.de/bimsb) (MDC) in Germany.
